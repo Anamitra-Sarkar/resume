@@ -17,7 +17,6 @@ Each score includes:
 """
 
 from typing import Optional
-from dataclasses import dataclass
 
 from ..models import (
     ResumeData, JobDescriptionData, MatchResult, 

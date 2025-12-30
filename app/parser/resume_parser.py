@@ -15,8 +15,6 @@ The parser is designed to:
 import re
 from typing import Optional, Tuple, Union
 from pathlib import Path
-import tempfile
-import os
 
 from ..models import (
     ResumeData, Skill, Education, WorkExperience, 

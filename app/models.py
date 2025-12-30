@@ -2,7 +2,7 @@
 Resume Job Match Analyzer - Core Data Models
 
 This module defines the data structures used throughout the application.
-All models use Pydantic for validation and serialization.
+All models use dataclasses for simplicity and clarity.
 """
 
 from dataclasses import dataclass, field
