@@ -1,0 +1,55 @@
+Senior Software Engineer
+
+About the Role
+
+We are looking for an experienced Senior Software Engineer to join our growing engineering team. 
+You will be responsible for designing and building scalable backend services and working closely 
+with our product team to deliver features that delight our customers.
+
+This is a great opportunity for someone who wants to make a significant impact at a fast-paced 
+startup while working with cutting-edge technologies.
+
+Requirements
+
+- 5+ years of experience in software development
+- Strong proficiency in Python and/or Go
+- Experience with microservices architecture
+- Solid understanding of RESTful API design
+- Experience with SQL databases (PostgreSQL preferred)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Experience with Docker and Kubernetes
+- Strong problem-solving skills
+- Excellent communication skills
+- Bachelor's degree in Computer Science or related field
+
+Nice to Have
+
+- Experience with GraphQL
+- Knowledge of machine learning concepts
+- Experience with React or Vue.js
+- Familiarity with Terraform
+- Open source contributions
+- Experience mentoring junior developers
+
+Responsibilities
+
+- Design and implement scalable backend services
+- Write clean, maintainable, and well-tested code
+- Participate in code reviews and architectural discussions
+- Collaborate with product managers to define technical requirements
+- Mentor junior team members
+- Contribute to improving our engineering practices
+
+What We Offer
+
+- Competitive salary and equity
+- Remote-friendly work environment
+- Health, dental, and vision insurance
+- Learning and development budget
+- Flexible working hours
+
+About Us
+
+We are a Series B startup building the next generation of developer tools. 
+Our team is distributed across multiple time zones, and we value ownership, 
+collaboration, and continuous learning.

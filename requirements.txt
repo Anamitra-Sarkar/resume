@@ -1,0 +1,24 @@
+# Resume Job Match Analyzer - Dependencies
+# Core parsing libraries
+pdfplumber>=0.10.0
+python-docx>=1.1.0
+
+# NLP and text processing
+nltk>=3.8.0
+rapidfuzz>=3.5.0  # For fuzzy string matching
+
+# Web framework (optional, for API mode)
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-multipart>=0.0.6  # For file uploads
+
+# Report generation
+markdown>=3.5.0
+reportlab>=4.1.0  # For PDF generation
+
+# Type checking and validation
+pydantic>=2.5.0
+
+# Development and testing
+pytest>=8.0.0
+pytest-cov>=4.1.0
