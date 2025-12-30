@@ -1,0 +1,59 @@
+John Smith
+Email: john.smith@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johnsmith | GitHub: github.com/johnsmith
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 5+ years of experience in full-stack web development.
+Passionate about building scalable applications and mentoring junior developers.
+
+WORK EXPERIENCE
+
+Senior Software Engineer at TechCorp Inc. | January 2021 - Present
+• Led development of microservices architecture using Python and FastAPI
+• Designed and implemented RESTful APIs serving 1M+ daily requests
+• Mentored team of 3 junior developers, conducting code reviews and pair programming
+• Improved system performance by 40% through database optimization
+• Implemented CI/CD pipelines using GitHub Actions and Docker
+
+Software Engineer at StartupXYZ | June 2018 - December 2020
+• Built customer-facing features using React and TypeScript
+• Developed backend services with Node.js and Express
+• Worked with PostgreSQL and MongoDB for data persistence
+• Participated in Agile/Scrum development processes
+• Collaborated with product team to define technical requirements
+
+Junior Developer at WebAgency | May 2017 - May 2018
+• Developed responsive web applications using HTML, CSS, and JavaScript
+• Created RESTful APIs using Python and Django
+• Participated in code reviews and sprint planning
+• Learned best practices for software development
+
+EDUCATION
+
+Bachelor of Science in Computer Science
+State University | Graduated 2017
+GPA: 3.7/4.0
+
+SKILLS
+
+Programming Languages: Python, JavaScript, TypeScript, SQL
+Frameworks: React, Node.js, Django, FastAPI, Express
+Databases: PostgreSQL, MongoDB, Redis
+Tools: Docker, Kubernetes, Git, GitHub Actions
+Cloud: AWS (EC2, S3, Lambda), Azure
+Methodologies: Agile, Scrum, CI/CD
+
+CERTIFICATIONS
+
+AWS Certified Solutions Architect - Associate | 2022
+Certified Kubernetes Administrator (CKA) | 2021
+
+PROJECTS
+
+Open Source Contribution - Popular Python Library
+• Contributed bug fixes and documentation improvements
+• Received recognition from maintainers for quality contributions
+
+Personal Blog Platform
+• Built a full-stack blog platform using Next.js and PostgreSQL
+• Implemented authentication, markdown support, and SEO optimization
